@@ -1,0 +1,22 @@
+{
+    "name": "slush-demo",
+    "description": "bbbbbbb\",
+    "version": "0.1.0",
+    "homepage": "https://github.com/maksimivanov/slush-demo",
+    "author": {
+      "name": "Maksim Ivanov",
+      "email": "satansdeer@gmail.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/maksimivanov/slush-demo"
+    },
+    "license": "MIT",
+    "main": "server.js",
+    "dependencies": {
+      "hapi": "^13.2.1"
+    },
+    "engine": {
+      "node": ">=5.0.0"
+    }
+  }
